@@ -1,6 +1,6 @@
 import re
 
-def mycookie():
+def mycook():
     cookies = open("mycookiescapcha/mycookies.txt")
     s = cookies.read()
     s = re.split(';', s)
