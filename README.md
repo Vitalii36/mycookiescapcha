@@ -11,5 +11,5 @@ the text document mycookies.txt after we physically go through capha on the site
 then drag the function into your python file from .mycookies import mycookie,
 The function returns ready cookie files for use in the request
 
-##License
+## License
 Format is MIT
