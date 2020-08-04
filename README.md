@@ -1,6 +1,6 @@
 # Mycookiescapcha
   function - to edit cookies from the server response file and
-use it for further automated work with the site and to combat capcha
+use it for further automated work with the site and to combat captcha
  
 ## Use case
 * [PythonScrapy-BrickSet](https://github.com/Vitalii36/PythonScrapy-Brickset)
